@@ -19,3 +19,7 @@ A plugin for integrating street maps in compliance with the General Data Protect
 ``[maps url="google.com/embed" id="karte_startseite" width="60%" height="420px" dsgvo="/datenschutz"]``
 
 ![example!](/img/example.png "Example")
+
+
+# Download
+You can downloaded in the [Releases](https://github.com/zipposativ/wordpress_maps_diclaimer/releases "Releases Page").
