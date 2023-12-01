@@ -23,3 +23,10 @@ A plugin for integrating street maps in compliance with the General Data Protect
 
 # Download
 You can downloaded in the [Releases](https://github.com/zipposativ/wordpress_maps_diclaimer/releases "Releases Page").
+
+
+# Support
+## Blog
+[https://simon.zipperling.net](https://simon.zipperling.net)
+## By me a Coffee
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/simon.zipperling)
